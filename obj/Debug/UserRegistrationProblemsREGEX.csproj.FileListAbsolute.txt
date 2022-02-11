@@ -1,0 +1,8 @@
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\bin\Debug\UserRegistrationProblemsREGEX.exe.config
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\bin\Debug\UserRegistrationProblemsREGEX.exe
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\bin\Debug\UserRegistrationProblemsREGEX.pdb
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\obj\Debug\UserRegistrationProblemsREGEX.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\obj\Debug\UserRegistrationProblemsREGEX.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\obj\Debug\UserRegistrationProblemsREGEX.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\obj\Debug\UserRegistrationProblemsREGEX.exe
+C:\Users\shaba\source\repos\UserRegistrationProblemsREGEX\UserRegistrationProblemsREGEX\obj\Debug\UserRegistrationProblemsREGEX.pdb
